@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello.
+
+I work with node.js and in the future Rust.
+
+**Currently Working On:** Terminal Animator
+
+![closet_cake](https://github.com/muyabells/muyabells/assets/134768752/5a150ca4-fa8d-4630-ab9c-768aaac8bb56)
+
 
 <!--
 **muyabells/muyabells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
